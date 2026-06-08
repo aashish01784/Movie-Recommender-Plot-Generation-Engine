@@ -1,5 +1,5 @@
 # Movie-Recommender-and-Plot-Generation-Engine
-# 🎬 Movie Recommender & Plot Generation Engine
+
 
 A machine learning-powered recommendation system that suggests similar movies based on metadata, genres, and content similarity while generating original movie plots using Large Language Models (LLMs).
 
